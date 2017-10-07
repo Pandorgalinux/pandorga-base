@@ -1,0 +1,8 @@
+PRETTY_NAME="Pandorga GNU/Linux 9"
+NAME="Pandorga GNU/Linux"
+VERSION_ID="9"
+VERSION="9"
+ID=pandorga
+HOME_URL="https://www.pandorgalinux.com.br/"
+SUPPORT_URL="https://www.pandorgalinux.com.br/"
+BUG_REPORT_URL="https://www.pandorgalinux.com.br/"
