@@ -1,5 +1,5 @@
 Source: pandorga-base
-Section: unknown
+Section: misc 
 Priority: optional
 Maintainer: Pandorga GNU/Linux Team <distro@pandorgalinux.com.br>
 Build-Depends: debhelper (>= 9)
@@ -10,5 +10,6 @@ Vcs-Git: https://github.com/Pandorgalinux/distro.git
 Package: pandorga-base
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Recommends: aspell-pt-br, bash-completion, console-data, gcompris, gcompris-sound-ptbr
 Description: Pandorga GNU/Linux Base Meta-Package
  Base Package to install the Pandorga GNU/Linux Educational Distribution.
