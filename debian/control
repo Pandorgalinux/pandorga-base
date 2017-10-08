@@ -10,6 +10,6 @@ Vcs-Git: https://github.com/Pandorgalinux/distro.git
 Package: pandorga-base
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Recommends: aspell-pt-br, bash-completion, console-data, gcompris, gcompris-sound-ptbr
+Recommends: aspell-pt-br, bash-completion, console-data, wireless-tools, wodim, xresprobe, gimp, inkscape, openshot, audacity, tuxpaint, tuxmath, tuxtype, gcompris, gcompris-sound-ptbr, gnucap, gnuchess, jclic, kde-l10n-ptbr, khelpcenter4, kturtle, kmplot, kbruch, ktuberling, khangman, kgeography, kalzium, kstars, celestia-gnome, etoys, scratch
 Description: Pandorga GNU/Linux Base Meta-Package
  Base Package to install the Pandorga GNU/Linux Educational Distribution.
